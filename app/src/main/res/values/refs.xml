@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_launcher" />
+    <drawable name="china" />
+    <drawable name="australia" />
+    <drawable name="portugle" />
+    <drawable name="new_zealand" />
+</resources>
